@@ -1,0 +1,10 @@
+chromadb==1.0.21
+datasets==4.1.0
+langchain_core==0.3.79
+langchain_openai==0.3.35
+python-dotenv==1.1.1
+streamlit==1.50.0
+tqdm==4.67.1
+Unidecode==1.4.0
+matplotlib
+pillow
