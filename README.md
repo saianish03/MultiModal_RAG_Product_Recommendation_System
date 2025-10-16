@@ -1,4 +1,4 @@
-# MultiModal RAG-based Product Recommendation System
+# MultiModal RAG-based Product Search and Recommendation System
 
 
 Clone the repo with git clone
